@@ -10,7 +10,7 @@ I'm Jhon Fredy Rincón Pelayo, web developer 🚀 from Colombia.I have extensive
 
 ## Donde me puedes encontrar
 _Personal_
-* :star::blush: A veces me vuelvo Youtuber DEV **[Videos]()** :v:
-* :star::blush: Mi sitio web **[Works]()** :v:
+* :star::blush: Mi Sitio Web **[Works]()** :v:
 * :star::blush: Mi Perfil En **[Platzi](https://platzi.com/p/JhonFy/)** :v:
-* :star::blush: Mi Perfil En **[Gmail](dijhonsdeveloper1023@gmail.com)** :v:
+* :star::blush: Email Electrónico **[dijhonsdeveloper1023@gmail.com]** :v:
+
