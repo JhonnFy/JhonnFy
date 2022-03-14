@@ -4,7 +4,7 @@ Hello.! I'm Jhon Fredy Rincón Pelayo, web developer 🚀 from Colombia.I have e
 
 ![javascript](https://user-images.githubusercontent.com/97255802/158096794-c7b7130b-a85b-44aa-9c07-eb46e54c4c22.gif)
 
-# Aprende a crear estas aplicaciones web. "Website Frontend HTML/CSS/JavaScript/PHP/MySQL/SwiperJs"
+# Aprende a crear estas aplicaciones:"Website Frontend HTML/CSS/JavaScript/PHP/MySQL/SwiperJs"
 <br />
 
 ![Base](https://user-images.githubusercontent.com/97255802/158096712-c6cb9789-4a3d-4726-b998-24f5ad8a0928.png)
