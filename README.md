@@ -10,8 +10,5 @@ Check out the code and feel free to contribute 🚀
 
 
 ## Donde me puedes encontrar
-_Personal_
-* :star::blush: Mi Sitio Web **[Works]()** :v:
-* :star::blush: Mi Perfil En **[Platzi](https://platzi.com/p/JhonFy/)** :v:
-* :star::blush: Email Electrónico **[dijhonsdeveloper1023@gmail.com]** :v:
+
 
