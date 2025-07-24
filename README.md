@@ -11,28 +11,14 @@ Explore the code and feel free to contribute 🚀
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
-
+---
 ## 🔗 Live Demo  
 👉 [Construction-Website](https://jhonnfy.github.io/Construction-Website/)
-
-## 🧠 Technologies Used  
-
-The following technologies have been used throughout the development process:
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
-
+---
 ## 🤝 Contributing
 
 If you encounter any issues or want to add new features, feel free to open an issue or submit a pull request.  
 All contributions are welcome and appreciated!
-
 ---
-
 ## 📄 License
-
 This project is open-source and available under the [MIT License](LICENSE).
