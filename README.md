@@ -4,7 +4,10 @@ This project focuses on building efficient web applications. It integrates front
 I’m committed to writing clean, maintainable code and ensuring smooth, intuitive user experiences.  
 Explore the code and feel free to contribute 🚀
 
-![javascript](https://user-images.githubusercontent.com/97255802/158096794-c7b7130b-a85b-44aa-9c07-eb46e54c4c22.gif)
+![javascript](https://user-images.githubusercontent.com/97255802/158096794-c7b7130b-a85b-44aa-9c07-eb46e54c4c22.gif)  
+<br/>
+
+## 🧠 Technologies Used
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -15,11 +18,10 @@ Explore the code and feel free to contribute 🚀
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
-![Live Demo](https://img.shields.io/badge/Live%20Demo-4682B4?style=flat)
-The result of many hours of coding — now live!
+## 🚀 Live Demo  
+![Live Demo](https://img.shields.io/badge/Live%20Demo-4682B4?style=flat)  
+**The result of many hours of coding — now live!**  
 👉 [Construction-Website](https://jhonnfy.github.io/Construction-Website/)
 
-
-
-## 📄 License
+## 📄 License  
 This project is open-source and available under the [MIT License](LICENSE).
