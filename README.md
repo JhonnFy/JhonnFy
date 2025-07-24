@@ -15,10 +15,7 @@ Explore the code and feel free to contribute 🚀
 ## 🔗 Live Demo  
 👉 [Construction-Website](https://jhonnfy.github.io/Construction-Website/)
 
-## 🤝 Contributing
 
-If you encounter any issues or want to add new features, feel free to open an issue or submit a pull request.  
-All contributions are welcome and appreciated!
 
 ## 📄 License
 This project is open-source and available under the [MIT License](LICENSE).
