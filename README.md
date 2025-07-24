@@ -1,4 +1,10 @@
-![Developer](https://img.shields.io/badge/Developer-F7DF1E?style=flat&logo=visualstudio&logoColor=black) Welcome To My Repository
+![Developer](https://img.shields.io/badge/Developer-5C2D91?style=flat&logo=visualstudio&logoColor=white)
+![Developer](https://img.shields.io/badge/Developer-000000?style=flat&logo=visualstudio&logoColor=white)
+![Developer](https://img.shields.io/badge/Developer-C0C0C0?style=flat&logo=visualstudio&logoColor=black)
+![Developer](https://img.shields.io/badge/Developer-4CAF50?style=flat&logo=visualstudio&logoColor=white)
+
+ 
+ Welcome To My Repository
 
 This project focuses on building efficient web applications. It integrates front-end development with robust backend architecture and database management, resulting in scalable and user-friendly solutions.  
 I’m committed to writing clean, maintainable code and ensuring smooth, intuitive user experiences.  
