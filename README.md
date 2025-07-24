@@ -1,7 +1,6 @@
-![Full Stack](https://img.shields.io/badge/Full_Stack-007ACC?style=flat&logo=VisualStudio&logoColor=white)
-![.NET Developer](https://img.shields.io/badge/.NET_Developer-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Developer](https://img.shields.io/badge/Developer-F7DF1E?style=flat&logo=visualstudio&logoColor=black)
+![Web App](https://img.shields.io/badge/Web_Application-239120?style=flat&logo=MicrosoftEdge&logoColor=white)
 
-# Welcome To My Repository
 
 
 # 🌐 Welcome To My Repository
