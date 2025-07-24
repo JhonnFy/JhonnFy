@@ -6,9 +6,9 @@ Explore the code and feel free to contribute 🚀
 
 ![javascript](https://user-images.githubusercontent.com/97255802/158096794-c7b7130b-a85b-44aa-9c07-eb46e54c4c22.gif)
 
-## 🔗 Live Demo  
+##
+🔗 Live Demo  
 👉 [Construction-Website](https://jhonnfy.github.io/Construction-Website/)  
-**This project is a reflection of my effort. Explore the live version and see how the final product looks and works.**
 ##
 ## 🧠 Technologies Used
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
