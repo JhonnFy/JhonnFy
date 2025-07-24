@@ -10,5 +10,4 @@ Explore the code and feel free to contribute 🚀
 **The result of many hours of coding — now live!**  
 👉 [Construction-Website](https://jhonnfy.github.io/Construction-Website/)
 
-## 📄 License  
-This project is open-source and available under the [MIT License](LICENSE).
+
