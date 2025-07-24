@@ -1,9 +1,4 @@
-![Developer](https://img.shields.io/badge/Developer-F7DF1E?style=flat&logo=visualstudio&logoColor=black)
-![Web App](https://img.shields.io/badge/Web_Application-239120?style=flat&logo=MicrosoftEdge&logoColor=white)
-
-
-
-# 🌐 Welcome To My Repository
+![Developer](https://img.shields.io/badge/Developer-F7DF1E?style=flat&logo=visualstudio&logoColor=black) Welcome To My Repository
 
 This project focuses on building efficient web applications. It integrates front-end development with robust backend architecture and database management, resulting in scalable and user-friendly solutions.  
 I’m committed to writing clean, maintainable code and ensuring smooth, intuitive user experiences.  
