@@ -1,3 +1,9 @@
+![Full Stack](https://img.shields.io/badge/Full_Stack-007ACC?style=flat&logo=VisualStudio&logoColor=white)
+![.NET Developer](https://img.shields.io/badge/.NET_Developer-512BD4?style=flat&logo=dotnet&logoColor=white)
+
+# Welcome To My Repository
+
+
 # 🌐 Welcome To My Repository
 
 This project focuses on building efficient web applications. It integrates front-end development with robust backend architecture and database management, resulting in scalable and user-friendly solutions.  
