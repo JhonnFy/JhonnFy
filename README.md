@@ -15,10 +15,7 @@ Explore the code and feel free to contribute 🚀
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
-
-
-![Live Demo](https://img.shields.io/badge/Live%20Demo-4682B4?style=flat&logo=githubpages&logoColor=white)
-
+![Live Demo](https://img.shields.io/badge/Live%20Demo-4682B4?style=flat)
 👉 [Construction-Website](https://jhonnfy.github.io/Construction-Website/)
 
 
