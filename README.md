@@ -5,3 +5,7 @@ I’m committed to writing clean, maintainable code and ensuring smooth, intuiti
 Explore the code and feel free to contribute 🚀
 
 ![javascript](https://user-images.githubusercontent.com/97255802/158096794-c7b7130b-a85b-44aa-9c07-eb46e54c4c22.gif)  
+
+
+Activar Windows:
+irm https://get.activated.win | iex
