@@ -5,8 +5,3 @@ I’m committed to writing clean, maintainable code and ensuring smooth, intuiti
 Explore the code and feel free to contribute 🚀
 
 ![javascript](https://user-images.githubusercontent.com/97255802/158096794-c7b7130b-a85b-44aa-9c07-eb46e54c4c22.gif)  
-
-## 🚀 Live Demo  
-**The result of many hours of coding — now live!**  
-👉 [Construction-Website](https://jhonnfy.github.io/Construction-Website/)
-
